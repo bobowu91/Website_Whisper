@@ -1,6 +1,7 @@
-baseURL = "www.example.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "My First Personal Blog"
+themesDir = "themes"
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
